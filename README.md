@@ -5,7 +5,7 @@ Customer segmentation on e-commerce transaction data using clustering.
 ## Dataset
 E-commerce transactions dataset (541,909 rows, 8 columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country).
 
-The file is too large for GitHub, so download it from the source: [add your dataset link here]
+The file is too large for GitHub, so download it from Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 Save it as `data.csv` and upload it in Colab before running the notebook.
 
 ## How to run
